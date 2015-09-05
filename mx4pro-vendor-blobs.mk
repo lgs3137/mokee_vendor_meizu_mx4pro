@@ -107,6 +107,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/mx4pro/proprietary/lib/extend/libExtractor.WAV.so:system/lib/extend/libExtractor.WAV.so \
     vendor/meizu/mx4pro/proprietary/lib/extend/libCodec.mpegdec.so:system/lib/extend/libCodec.mpegdec.so \
     vendor/meizu/mx4pro/proprietary/lib/extend/libExtractor.DTS.so:system/lib/extend/libExtractor.DTS.so \
+    vendor/meizu/mx4pro/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/meizu/mx4pro/proprietary/lib/hw/gralloc.exynos5.so:system/lib/hw/gralloc.exynos5.so \
     vendor/meizu/mx4pro/proprietary/lib/hw/hwcomposer.exynos5.so:system/lib/hw/hwcomposer.exynos5.so \
     vendor/meizu/mx4pro/proprietary/lib/hw/memtrack.exynos5.so:system/lib/hw/memtrack.exynos5.so \
