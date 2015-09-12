@@ -159,7 +159,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/mx4pro/proprietary/lib/libskia_hw_interface.so:system/lib/libskia_hw_interface.so \
     vendor/meizu/mx4pro/proprietary/lib/libskia_private.so:system/lib/libskia_private.so \
     vendor/meizu/mx4pro/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
-    vendor/meizu/mx4pro/proprietary/lib/libtfa9890.so:system/lib/libtfa9890.so \
     vendor/meizu/mx4pro/proprietary/lib/libtiff.so:system/lib/libtiff.so \
     vendor/meizu/mx4pro/proprietary/lib/libvcm.so:system/lib/libvcm.so \
     vendor/meizu/mx4pro/proprietary/lib/libvirtualdisplaymodule.so:system/lib/libvirtualdisplaymodule.so \
@@ -212,7 +211,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/mx4pro/proprietary/vendor/firmware/WTK-OGSB.img:system/vendor/firmware/WTK-OGSB.img \
     vendor/meizu/mx4pro/proprietary/vendor/lib/egl/gpr_list.cfg:system/vendor/lib/egl/gpr_list.cfg \
     vendor/meizu/mx4pro/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
-    vendor/meizu/mx4pro/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/meizu/mx4pro/proprietary/vendor/lib/libmalicore.bc:system/vendor/lib/libmalicore.bc \
     vendor/meizu/mx4pro/proprietary/vendor/lib/libRSDriverArm.so:system/vendor/lib/libRSDriverArm.so \
     vendor/meizu/mx4pro/proprietary/vendor/lib/libsfb_hal.so:system/vendor/lib/libsfb_hal.so \
