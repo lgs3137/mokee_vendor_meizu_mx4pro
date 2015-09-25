@@ -131,6 +131,7 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/mx4pro/proprietary/lib/libfp_client.so:system/lib/libfp_client.so \
     vendor/meizu/mx4pro/proprietary/lib/libfpservice.so:system/lib/libfpservice.so \
     vendor/meizu/mx4pro/proprietary/lib/libgdmcprov.so:system/lib/libgdmcprov.so \
+    vendor/meizu/mx4pro/proprietary/lib/libhal.so:system/lib/libhal.so \
     vendor/meizu/mx4pro/proprietary/lib/libhdmimodule.so:system/lib/libhdmimodule.so \
     vendor/meizu/mx4pro/proprietary/lib/libhdmi.so:system/lib/libhdmi.so \
     vendor/meizu/mx4pro/proprietary/lib/libhwcutilsmodule.so:system/lib/libhwcutilsmodule.so \
